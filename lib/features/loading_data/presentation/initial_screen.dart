@@ -14,7 +14,7 @@ import 'package:project_cucumber/utilites/device_memory.dart';
 class InitialPage extends StatelessWidget {
   final ScrollController _scrollController = ScrollController();
 
-  InitialPage({super.key});
+  //InitialPage({super.key});
 
   @override
   Widget build(BuildContext context) {
